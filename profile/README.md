@@ -1,5 +1,7 @@
 # My Vision
 
+![dessix.io](https://dessix.io/images/og.jpg)
+
 [中文版](https://mp.weixin.qq.com/s/8MH5TRtfE1zvt-ivmYevGw)
 
 I believe the future of human-AI collaboration isn’t about treating AI as just a tool—it’s about aligning AI’s understanding with our own thinking processes. It’s about creating a shared context where humans and AI can truly work together, amplifying each other’s strengths to solve complex problems, uncover insights, and bring ideas to life.
